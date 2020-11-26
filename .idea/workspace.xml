@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="247ecccd-ba73-4b86-b716-034f9fdc945d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/myweb/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/.idea/myweb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/blog/templates/blog/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/blog/templates/blog/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/myweb/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/myweb/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/myweb/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myweb/myweb/wsgi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/myweb" />
+  </component>
+  <component name="ProjectId" id="1Z4vdtgP3QB51SJlmchC6Zbkzcc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="247ecccd-ba73-4b86-b716-034f9fdc945d" name="Default Changelist" comment="" />
+      <created>1584111271921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584111271921</updated>
+    </task>
+    <servers />
+  </component>
+</project>
